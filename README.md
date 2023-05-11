@@ -1,4 +1,5 @@
 **Project Overview:**
+
 We are designing a cloud-based solution for a company that wants to develop a Spring Boot application and deploy it on AWS.
 The application will need to interact with various AWS services such as EC2, IAM, and Lambda.
 
@@ -9,9 +10,11 @@ The solution should be designed for security and compliance.
 The solution should be cost-effective.
 
 **Proposed Solution:**
+
 To meet the technical requirements, we propose the following solution:
 
 **EC2 Instance: **
+
 will use an EC2 instance to host the Spring Boot application. 
 will choose an instance type based on the application's requirements and performance needs.
 
